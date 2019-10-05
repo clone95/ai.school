@@ -14,7 +14,7 @@ E' quindi urgente stimolare la discussione pubblica su questi temi, i quali avra
 
 _In particolare_ è cruciale che i ragazzi che si accingono a scegliere l'Università (e quindi il "percorso" della proprio vita) siano consapevoli di essi.
 
-Nella sezione [Obiettivi](#Obiettivi) vengono delineati in modo più dettagliati il risultato del progetto.
+Nella sezione [obiettivi](#obiettivi) vengono delineati in modo più dettagliati il risultato del progetto.
 
 Il materiale presentato nella sezione [Contenuti](#Contenuti) è potenzialmente molto vasto, per cui si dovrà operare una scrematura dei temi più adatti e importanti. 
 
