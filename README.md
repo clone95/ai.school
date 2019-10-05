@@ -145,9 +145,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
         ![](https://i.imgur.com/3H3KsNe.png)
                  
          Volendo fare un’analogia con un essere umano, si può pensare ai sensori come agli organi di        senso (occhi, orecchie...), l’intelligenza è quella del nostro cervello e gli attuatori possono           essere le mani, i piedi o più in generale i muscoli.
-         
-         ##### UMANO INPUT E OUTPUT
-         
+                  
         L’analogia biologica è però limitata, in quanto non è necessario che i sensori di un agente        debbano rilevare fenomeni fisici, come la temperatura o il tempo, ma potrebbe rilevare dati,        relazioni, o input di qualsiasi altro genere.
         
         
