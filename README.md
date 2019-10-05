@@ -1,6 +1,5 @@
-
 # ai.school
-Questo documento presenta le linee generali del progetto di AI nelle scuole superiori (ai.school si legge high-school, se non aveste colto la sottigliezza :-)).
+Questo documento presenta le linee generali del progetto di AI nelle scuole superiori (ai.school si legge cone high-school, se non aveste colto la sottigliezza :-).
 
 Il progetto nasce dall'esigenza di diffondere la discussione pubblica a proposito di tematiche innovative e il loro impatto sulla società.
 
@@ -14,7 +13,9 @@ E' quindi urgente stimolare la discussione pubblica su questi temi, i quali avra
 
 _In particolare_ è cruciale che i ragazzi che si accingono a scegliere l'Università (e quindi il "percorso" della proprio vita) siano consapevoli di essi.
 
-Nella sezione [Obiettivi](#obiettivi) vengono delineati in modo più dettagliati il risultato del progetto.
+### Sommario
+
+Nella sezione [Obiettivi](#Obiettivi) vengono delineati in modo più dettagliati il risultato del progetto.
 
 Il materiale presentato nella sezione [Contenuti](#Contenuti) è potenzialmente molto vasto, per cui si dovrà operare una scrematura dei temi più adatti e importanti. 
 
@@ -145,7 +146,9 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
         ![](https://i.imgur.com/3H3KsNe.png)
                  
          Volendo fare un’analogia con un essere umano, si può pensare ai sensori come agli organi di        senso (occhi, orecchie...), l’intelligenza è quella del nostro cervello e gli attuatori possono           essere le mani, i piedi o più in generale i muscoli.
-                  
+         
+         ##### UMANO INPUT E OUTPUT
+         
         L’analogia biologica è però limitata, in quanto non è necessario che i sensori di un agente        debbano rilevare fenomeni fisici, come la temperatura o il tempo, ma potrebbe rilevare dati,        relazioni, o input di qualsiasi altro genere.
         
         
@@ -183,118 +186,122 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
          - #### Breve storia dell'AI 
 
-            #### **Gli inizi**
-
-            Nel 1956, i pionieri dell'intelligenza artificiale si sono posti una missione incredibilmente difficile ma ben definita: ricreare l'intelligenza umana in una macchina.
-
-            Questa sorprendente combinazione tra la chiarezza dell'obiettivo e la complessità del compito attirò alcune delle più grandi menti nel campo emergente dell'informatica e venne esaltata dai riflettori della televisione. 
-
-            Queste grandi menti idearono due approcci fondamentali per riuscire a costruire un software "intelligente": un approccio "**basato sulle regole**" e l'approccio delle "**reti neurali**". 
+        #### Gli inizi
         
-            
-            #### **Due idee diverse**
+        ![](https://i.imgur.com/jwkPFtr.png)
 
-              
+
+        Nel 1956, i pionieri dell'intelligenza artificiale si sono posti una missione incredibilmente difficile ma ben definita: ricreare l'intelligenza umana in una macchina.
         
-           
+        Questa sorprendente combinazione tra la chiarezza dell'obiettivo e la complessità del compito attirò alcune delle più grandi menti nel campo emergente dell'informatica e venne esaltata dai riflettori della televisione. 
         
-            I ricercatori del campo basato sulle regole (talvolta chiamati anche "sistemi simbolici" o "sistemi esperti") tentarono di insegnare ai computer a pensare codificando una serie di regole logiche: Se X, allora Y. Questo approccio ha funzionato bene per giochi semplici e ben definiti ("toy problems") ma è crollato quando l'universo di possibili scelte o movimenti si è ampliato: il mondo reale è troppo complesso per poter tenere conto di ogni possibile situazione e prevedere l'azione corretta da compiere.
-
-            ![](https://i.imgur.com/RcYjfdZ.jpg)
-
-
-            Il campo delle "reti neurali", tuttavia, ha adottato un approccio diverso. Invece di cercare di insegnare al computer le regole che erano state padroneggiate da un cervello umano, questi professionisti hanno cercato di ricostruire il cervello umano stesso.
-
-            Dato che le reti aggrovigliate di neuroni nel cervello animale erano l'unica cosa capace di intelligenza, questi ricercatori hanno pensato che si sarebbero ispirati direttamente all'evoluzione biologica. 
+        Queste grandi menti idearono due approcci fondamentali per riuscire a costruire un software "intelligente": un approccio "**basato sulle regole**" e l'approccio delle "**reti neurali**". 
         
-            ![](https://i.imgur.com/tA3BwHc.jpg)
-
-            Questo approccio imita l'architettura di base del cervello, costruendo strati di neuroni artificiali che possono ricevere e trasmettere informazioni in una struttura simile alle nostre reti di neuroni biologici.
-
-            A differenza dell'approccio basato su regole, i costruttori di reti neurali generalmente non danno alle reti le regole da seguire nel prendere decisioni.
-
-            Essi si limitano a inserire nelle reti neurali moltissimi esempi di un dato fenomeno - immagini, giochi di scacchi, suoni - e permettono alle reti stesse di identificare i modelli all'interno dei dati.
-
-            _In altre parole, meno interferenze umane ci sono, meglio è._
-
-            Le differenze tra i due approcci possono essere viste nel modo in cui possono affrontare un problema semplice, ad esempio provando a  identificare _se c'è un gatto in un'immagine_. 
-
-            ![](https://i.imgur.com/Zu1BD9t.jpg)
-
-
-            L'approccio _basato su regole_ cercherebbe di stabilire regole "Se -> Allora" per aiutare il programma a prendere una decisione: "Se ci sono due forme triangolari sopra una forma circolare, allora c'è probabilmente un gatto nell'immagine".
-
-            L'approccio _basato sulle rete neurali_ alimenterebbe invece milioni di foto campione del programma etichettate "gatto" o "no cat", lasciando che il programma capisca da solo quali caratteristiche dei milioni di immagini erano più strettamente correlate all'etichetta "gatto".
-
-            Pensate ora a quanto è potente ed efficiente il nostro cervello! Spesso basta vedere _un solo gatto_ e legarlo al concetto "gatto", per riconoscere in futuro tutti i gatti che vediamo, anche se cambia la razza, il colore, la posizione, e così via! Il tema della **trasferibilità della conoscenza** è un tema caldissimo nella ricerca, e avremo occasione di tornarci sopra più avanti. 
+        ---
         
-             #### **L'inverno dell'AI**
-
-            Durante gli anni '50 e '60, le prime versioni delle reti neurali artificiali hanno dato risultati promettenti e ottenuto un sacco di pubblicità.
-
-            Ma poi verso la fine degli anni '60 i ricercatori del campo basato sulle regole hanno avuto la meglio, convincendo molti sul campo che le reti neurali erano inaffidabili e limitate nel loro uso. 
-
-
-
-            L'approccio alle reti neurali passò rapidamente di moda, e l'IA si immerse in uno dei suoi primi "inverni" durante gli anni Settanta. Nei decenni successivi, le reti neurali hanno goduto di brevi periodi di rilievo, seguiti da un abbandono quasi totale. 
-
-
-
-            Ciò che alla fine ha resuscitato il campo delle reti neurali - e ha scatenato la rinascita dell'IA che stiamo vivendo oggi - sono stati i cambiamenti in due delle principali materie prime di cui le reti neurali si nutrono, insieme a un importante passo avanti tecnico.
+        #### Due idee diverse
         
+        I ricercatori del campo basato sulle regole (talvolta chiamati anche "sistemi simbolici" o "sistemi esperti") tentarono di insegnare ai computer a pensare codificando una serie di regole logiche: Se X, allora Y. Questo approccio ha funzionato bene per giochi semplici e ben definiti ("toy problems") ma è crollato quando l'universo di possibili scelte o movimenti si è ampliato: il mondo reale è troppo complesso per poter tenere conto di ogni possibile situazione e prevedere l'azione corretta da compiere.
         
-            #### **La rinascita dell'AI**
+        ![](https://i.imgur.com/RcYjfdZ.jpg)
 
-             Le reti neurali richiedono grandi quantità di due cose: **potenza di calcolo** e **dati**. 
+        
+        Il campo delle "reti neurali", tuttavia, ha adottato un approccio diverso. Invece di cercare di insegnare al computer le regole che erano state padroneggiate da un cervello umano, questi professionisti hanno cercato di ricostruire il cervello umano stesso.
+        
+        Dato che le reti aggrovigliate di neuroni nel cervello animale erano l'unica cosa capace di intelligenza, questi ricercatori hanno pensato che si sarebbero ispirati direttamente all'evoluzione biologica. 
+        
+        ![](https://i.imgur.com/tA3BwHc.jpg)
+        
+        Questo approccio imita l'architettura di base del cervello, costruendo strati di neuroni artificiali che possono ricevere e trasmettere informazioni in una struttura simile alle nostre reti di neuroni biologici.
+        
+        A differenza dell'approccio basato su regole, i costruttori di reti neurali generalmente non danno alle reti le regole da seguire nel prendere decisioni.
 
-             I dati "addestrano" il programma dandogli molti esempi, e la potenza di calcolo permette al programma di analizzare questi esempi ad alta velocità. All'alba degli anni 60 sia i dati che la potenza di calcolo erano risorse decisamente insufficienti. Ma nei decenni successivi, tutto ciò che è cambiato. 
+        Essi si limitano a inserire nelle reti neurali moltissimi esempi di un dato fenomeno - immagini, giochi di scacchi, suoni - e permettono alle reti stesse di identificare i modelli all'interno dei dati.
+        
+        ![](https://i.imgur.com/NcwmZiq.png)
+        
+        _In altre parole, meno interferenze umane ci sono, meglio è._
+        
+        Le differenze tra i due approcci possono essere viste nel modo in cui possono affrontare un problema semplice, ad esempio provando a  identificare _se c'è un gatto in un'immagine_. 
+        
+        ![](https://i.imgur.com/Zu1BD9t.jpg)
 
-             Oggi, il vostro smartphone ha una _potenza di elaborazione milioni di volte superiore_ a quella dei principali computer all'avanguardia che la NASA utilizzava per inviare Neil Armstrong sulla luna nel 1969.
+        
+        L'approccio _basato su regole_ cercherebbe di stabilire regole "Se -> Allora" per aiutare il programma a prendere una decisione: "Se ci sono due forme triangolari sopra una forma circolare, allora c'è probabilmente un gatto nell'immagine".
+        
+        L'approccio _basato sulle rete neurali_ alimenterebbe invece milioni di foto campione del programma etichettate "gatto" o "no cat", lasciando che il programma capisca da solo quali caratteristiche dei milioni di immagini erano più strettamente correlate all'etichetta "gatto".
+        
+        Pensate ora a quanto è potente ed efficiente il nostro cervello! Spesso basta vedere _un solo gatto_ e legarlo al concetto "gatto", per riconoscere in futuro tutti i gatti che vediamo, anche se cambia la razza, il colore, la posizione, e così via! Il tema della **trasferibilità della conoscenza** è un tema caldissimo nella ricerca, e avremo occasione di tornarci sopra più avanti. 
+        
+        ---
+        #### **L'inverno dell'AI**
+        
+        Durante gli anni '50 e '60, le prime versioni delle reti neurali artificiali hanno dato risultati promettenti e ottenuto un sacco di pubblicità.
+        
+        Ma poi verso la fine degli anni '60 i ricercatori del campo basato sulle regole hanno avuto la meglio, convincendo molti sul campo che le reti neurali erano inaffidabili e limitate nel loro uso. 
 
-             Internet ha portato a un'_esplosione di tutti i tipi di dati_ digitali: testi, immagini, video, click, acquisti, Tweets e così via.
+        L'approccio alle reti neurali passò rapidamente di moda, e l'IA si immerse in uno dei suoi primi "inverni" durante gli anni Settanta. Nei decenni successivi, le reti neurali hanno goduto di brevi periodi di rilievo, seguiti da un abbandono quasi totale. 
+        
+        ![](https://i.imgur.com/SvzLuYw.jpg)
 
-            ![](https://i.imgur.com/3uOnp5z.png)
+        
+        Ciò che alla fine ha resuscitato il campo delle reti neurali - e ha scatenato la rinascita dell'IA che stiamo vivendo oggi - sono stati i cambiamenti in due delle principali materie prime di cui le reti neurali si nutrono, insieme a un importante passo avanti tecnico.
+        
+        ---
+        
+        #### **La rinascita dell'AI**
+        
+         Le reti neurali richiedono grandi quantità di due cose: **potenza di calcolo** e **dati**. 
+         
+         I dati "addestrano" il programma dandogli molti esempi, e la potenza di calcolo permette al programma di analizzare questi esempi ad alta velocità. All'alba degli anni 60 sia i dati che la potenza di calcolo erano risorse decisamente insufficienti. Ma nei decenni successivi, tutto ciò che è cambiato. 
+         
+         Oggi, il vostro smartphone ha una _potenza di elaborazione milioni di volte superiore_ a quella dei principali computer all'avanguardia che la NASA utilizzava per inviare Neil Armstrong sulla luna nel 1969.
+         
+         Internet ha portato a un'_esplosione di tutti i tipi di dati_ digitali: testi, immagini, video, click, acquisti, Tweets e così via.
+        
+        ![](https://i.imgur.com/3uOnp5z.png)
 
+        
+         Nel complesso, tutto questo ha dato ai ricercatori una grande quantità di dati di ogni tipo su cui addestrare le loro reti, così come un sacco di potenza di calcolo a basso costo per il loro "addestramento".
+         
+         Ma le reti stesse erano ancora fortemente limitate in quello che potevano fare: la procedura per "fare imparare" queste reti si rivelava efficace solo con pochi neuroni, al massimo qualche centinaio. 
+         
+         Risultati accurati a problemi complessi richiedevano molti strati di neuroni artificiali (centinaia di migliaia oppure milioni), ma i ricercatori non avevano trovato il modo di addestrare in modo efficiente quegli strati man mano che venivano aggiunti. 
+         
+         ---
+         #### Welcome, Deep Learning
+         
+         La grande svolta tecnica del Deep learning è finalmente arrivata a metà degli anni 2000, quando il ricercatore leader Geoffrey Hinton ha scoperto un modo per addestrare in modo efficiente questi nuovi strati nelle reti neurali. 
+         
+         ![](https://i.imgur.com/WS1z1Ls.jpg)
 
-             Nel complesso, tutto questo ha dato ai ricercatori una grande quantità di dati di ogni tipo su cui addestrare le loro reti, così come un sacco di potenza di calcolo a basso costo per il loro "addestramento".
+         
+         Il risultato è stato come dare steroidi alle vecchie reti neurali, moltiplicando il loro potere di eseguire compiti come il riconoscimento del parlato e degli oggetti. 
+         Presto, queste reti neurali, ora ribattezzate "deep learning", hanno superato i vecchi modelli più vecchi in una varietà di compiti. 
+         
+         Ma anni di pregiudizi radicati contro l'approccio delle reti neurali hanno portato molti ricercatori di IA a trascurare questo gruppo "marginale" che ha affermato risultati eccezionali. 
+         
+         La svolta è arrivata nel 2012, quando una rete neurale costruita dal team di Hinton ha demolito la competizione in un concorso internazionale di Computer Vision. 
+         Dopo decenni trascorsi ai margini della ricerca sull'IA, le reti neurali hanno colpito duro e ottenuto enormi successi.
+         
+         ![](https://i.imgur.com/6cWalJz.jpg)
+         
+         Questa scoperta prometteva di scongelare il ghiaccio dell'ultimo inverno dell'IA e, per la prima volta, di portare veramente la potenza dell'IA su una serie di problemi del mondo reale.
+         
+         ![](https://i.imgur.com/dgbzAug.jpg)
 
-             Ma le reti stesse erano ancora fortemente limitate in quello che potevano fare: la procedura per "fare imparare" queste reti si rivelava efficace solo con pochi neuroni, al massimo qualche centinaio. 
+         
+         Ricercatori, futuristi e CEO di aziende hanno iniziato a parlare dell'enorme potenziale del campo per decifrare il linguaggio umano, tradurre documenti, riconoscere immagini, prevedere il comportamento dei consumatori, identificare le frodi, prendere decisioni di prestito, aiutare i robot a "vedere" e persino a guidare un'auto. 
+         
+         Ma attenzione! 
+         
+         Come in ogni nuovo trend o nuova scoperta, bisogna saper distinguere la realtà dei fatti dall'hype! 
+         
+         Vi ricordo infatti che uno degli obiettivi principali di questo seminario è quello di rendere consapevoli delle reali possibilità dell'AI e di ciò che è per ora solo fantascienza.
+         
+         Speriamo insomma di instillare in voi lo stesso senso di fastidio che proviamo noi per le testate generalistiche italiane che mettono titoli _clickbait_ tipo "Le macchine prenderanno il controllo del pianeta!1!1!", con l'immagine dei Terminators che sterminano gli umani...
 
-             Risultati accurati a problemi complessi richiedevano molti strati di neuroni artificiali (centinaia di migliaia oppure milioni), ma i ricercatori non avevano trovato il modo di addestrare in modo efficiente quegli strati man mano che venivano aggiunti. 
-
-             #### Welcome, Deep Learning
-
-             La grande svolta tecnica del Deep learning è finalmente arrivata a metà degli anni 2000, quando il ricercatore leader Geoffrey Hinton ha scoperto un modo per addestrare in modo efficiente questi nuovi strati nelle reti neurali. 
-
-             ![](https://i.imgur.com/WS1z1Ls.jpg)
-
-
-             Il risultato è stato come dare steroidi alle vecchie reti neurali, moltiplicando il loro potere di eseguire compiti come il riconoscimento del parlato e degli oggetti. 
-             Presto, queste reti neurali, ora ribattezzate "deep learning", hanno superato i vecchi modelli più vecchi in una varietà di compiti. 
-
-             Ma anni di pregiudizi radicati contro l'approccio delle reti neurali hanno portato molti ricercatori di IA a trascurare questo gruppo "marginale" che ha affermato risultati eccezionali. 
-
-             La svolta è arrivata nel 2012, quando una rete neurale costruita dal team di Hinton ha demolito la competizione in un concorso internazionale di Computer Vision. 
-             Dopo decenni trascorsi ai margini della ricerca sull'IA, le reti neurali hanno colpito duro e ottenuto enormi successi.
-
-             ![](https://i.imgur.com/6cWalJz.jpg)
-
-             Questa scoperta prometteva di scongelare il ghiaccio dell'ultimo inverno dell'IA e, per la prima volta, di portare veramente la potenza dell'IA su una serie di problemi del mondo reale.
-
-             ![](https://i.imgur.com/dgbzAug.jpg)
-
-
-             Ricercatori, futuristi e CEO di aziende hanno iniziato a parlare dell'enorme potenziale del campo per decifrare il linguaggio umano, tradurre documenti, riconoscere immagini, prevedere il comportamento dei consumatori, identificare le frodi, prendere decisioni di prestito, aiutare i robot a "vedere" e persino a guidare un'auto. 
-
-             Ma attenzione! 
-
-             Come in ogni nuovo trend o nuova scoperta, bisogna saper distinguere la realtà dei fatti dall'hype! 
-
-             Vi ricordo infatti che uno degli obiettivi principali di questo seminario è quello di rendere consapevoli delle reali possibilità dell'AI e di ciò che è per ora solo fantascienza.
-
-             Speriamo insomma di instillare in voi lo stesso senso di fastidio che proviamo noi per le testate generalistiche italiane che mettono titoli _clickbait_ tipo "Le macchine prenderanno il controllo del pianeta!1!1!", con l'immagine dei Terminators che sterminano gli umani...
-
-            ![](https://i.imgur.com/Vx6gpBd.png)
+        ![](https://i.imgur.com/Vx6gpBd.png)
 
 
 
@@ -302,15 +309,15 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
 
 
-            La classificazione teorica tra AI, Machine Learning e Deep Learning può essere difficile da distinguere nella pratica, ma diventa più chiara con un esempio, come il sistema di guida autonoma di un’auto di nuova generazione.
-
-            Questo si può infatti considerare nel suo insieme un sistema di AI: rileva dati dal mondo reale (strada, automobili, segnali stradali, velocità) tramite sensori, possiede una conoscenza che costituisce la sua intelligenza (“se stai per collidere con un oggetto, frena preventivamente”) e possiede un insieme di attuatori tramite i quali mette in pratica le decisioni (freni, sterzo, ABS).
-
-            In questo esempio, il sistema di AI dell’auto ha un sotto-modulo di Machine Learning che gli permette di migliorarsi nel tempo, a mano a mano che la macchina “vede” strade e situazioni diverse, e aumenta le sue performance rispetto a una qualche metrica (sicurezza, tempo di reazione alla frenata, consumi).
-
-            Questo modulo di Machine Learning è poi costituito da ulteriori sotto-moduli, tra cui ci può essere un modulo di Deep Learning che si occupa in modo specifico della visione che l’auto ha del mondo reale, tramite una rete neurale addestrata a riconoscere il tracciato della strada, le forme delle automobili, distinguerle da quelle degli alberi e dei pedoni, e così via.
-
-            ![](https://i.imgur.com/QsCK0aM.png)
+        La classificazione teorica tra AI, Machine Learning e Deep Learning può essere difficile da distinguere nella pratica, ma diventa più chiara con un esempio, come il sistema di guida autonoma di un’auto di nuova generazione.
+        
+        Questo si può infatti considerare nel suo insieme un sistema di AI: rileva dati dal mondo reale (strada, automobili, segnali stradali, velocità) tramite sensori, possiede una conoscenza che costituisce la sua intelligenza (“se stai per collidere con un oggetto, frena preventivamente”) e possiede un insieme di attuatori tramite i quali mette in pratica le decisioni (freni, sterzo, ABS).
+        
+        In questo esempio, il sistema di AI dell’auto ha un sotto-modulo di Machine Learning che gli permette di migliorarsi nel tempo, a mano a mano che la macchina “vede” strade e situazioni diverse, e aumenta le sue performance rispetto a una qualche metrica (sicurezza, tempo di reazione alla frenata, consumi).
+        
+        Questo modulo di Machine Learning è poi costituito da ulteriori sotto-moduli, tra cui ci può essere un modulo di Deep Learning che si occupa in modo specifico della visione che l’auto ha del mondo reale, tramite una rete neurale addestrata a riconoscere il tracciato della strada, le forme delle automobili, distinguerle da quelle degli alberi e dei pedoni, e così via.
+                 
+        ![](https://i.imgur.com/QsCK0aM.png)
 
          
     - ### Cosa non è
