@@ -1,5 +1,5 @@
 # ai.school
-Questo documento presenta le linee generali del progetto di AI nelle scuole superiori (ai.school si legge cone high-school, se non aveste colto la sottigliezza :-).
+Questo documento presenta le linee generali del progetto di AI nelle scuole superiori (ai.school si legge come high-school, se non aveste colto la sottigliezza :-).
 
 Il progetto nasce dall'esigenza di diffondere la discussione pubblica a proposito di tematiche innovative e il loro impatto sulla società.
 
