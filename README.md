@@ -117,7 +117,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
         In particolare , il liceo scientifico ha lo scopo ben preciso di **fornire gli strumenti che servono poi** nel mondo dell'Università, non di formare professionisti. 
         
-        Ciò che non faremo durante questi incontri sarà parlare in modo strettamente tecnico di dell'AI, non verranno mostrate formule o teoremi, sia perchè non c'è il tempo per farlo (motivazione principale) sia perchè non è la cosa più importante che rimanga. 
+        Ciò che non faremo durante questi incontri sarà parlare in modo strettamente tecnico di dell'AI, non verranno mostrate formule o teoremi, sia perchè non c'è il tempo per farlo (motivazione principale) sia perchè non è la cosa più importante. 
         
         Quello con cui dovreste uscire equipaggiati da questi incontri è la possibilità pratica di _muovervi_ attraverso l'oceano di informazione che Internet ci offre, e saper riconoscere informazioni e notizie di qualità.
         
@@ -147,7 +147,6 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
                  
          Volendo fare un’analogia con un essere umano, si può pensare ai sensori come agli organi di        senso (occhi, orecchie...), l’intelligenza è quella del nostro cervello e gli attuatori possono           essere le mani, i piedi o più in generale i muscoli.
          
-         ##### UMANO INPUT E OUTPUT
          
         L’analogia biologica è però limitata, in quanto non è necessario che i sensori di un agente        debbano rilevare fenomeni fisici, come la temperatura o il tempo, ma potrebbe rilevare dati,        relazioni, o input di qualsiasi altro genere.
         
