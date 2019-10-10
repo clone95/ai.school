@@ -321,7 +321,18 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          
     - ### Cosa non è
          - #### Distinzione tra AI ed euristiche
-             - pensiero algo vs stat
+             
+         Che differenza c'è fra i programmi di AI e qualsiasi altro programma? 
+         
+         Sostanzialmente l'approccio nella risoluzione del problema. 
+         
+         Esistono due approcci diversi nella risoluzione di un problema. 
+         Il primo approccio si chiama algoritmico:
+         
+         ![Figure 1-1](https://raw.github.com/clone95/ai.school/master/images/algorithm.png "1") 
+
+         
+             
              - cosa quindi non è AI 
          - #### Quando l'AI è solo marketing
              - concetto di buzzword
