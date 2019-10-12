@@ -330,7 +330,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          
          Vediamo ad esempio l'algoritmo per preparare un the caldo.
          
-         ![Figure 1-1](https://raw.github.com/clone95/ai.school/master/images/algorithm.png "1") 
+         ![Figure 1-1](https://raw.github.com/clone95/ai.school/master/images/algorithm.png "algorihm") 
          
          Che differenza c'è fra i programmi di AI e qualsiasi altro programma? 
          
@@ -346,16 +346,19 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          
          - #### Contro Esempio (l'app Akinator)
          
-          Conoscete l'applicazione Akinator? 
+        Conoscete l'applicazione Akinator? 
           
         E' un applicazione che era molto popolare qualche anno fa, che sostanzialemnte consiste in questo:
-        dopo aver pensato a un personaggio famoso, l'app ti pome una serie di domande: ad esempio "ha i capelli?", "compare in guerre stellari?" e così via, fino a indovinare il personaggio pensato. Questa applicazione sembra "intelligente" nel senso che sembra che il suo motore software sia una AI, ma così non è! 
+        dopo aver pensato a un personaggio famoso, l'app ti pome una serie di domande: ad esempio "ha i capelli?", "compare in guerre stellari?" e così via, fino a indovinare il personaggio pensato.
+        
+        Questa applicazione *sembra* "intelligente" nel senso che sembra che il suo motore software sia una AI, ma così non è! 
         
         Infatti se pensiamo a ciò che abbiamo detto prima, è immediato notare che c'è sempre una serie di passi predeterminati, di domande da porre in un certo ordine, che poi va a cercare in un database di personaggi e sceglie quello giusto. Però non è una rete neurale a fare questa cosa, bensì una serie di passi pre-codificati e decisi. 
         
-        QUando vogliamo capire se un programma è di AI oppure no, chiedimoci: facendo due volte le stesse scelte, si arriva sempre alla stessa conclusione? In Akinator si, quindi non è una AI.
+        Quando vogliamo capire se un programma è di AI oppure no, chiedimoci: facendo due volte le stesse scelte, si arriva sempre alla stessa conclusione? In Akinator si, quindi non è una AI.
           
-         
+       ![Figure 1-2](https://raw.github.com/clone95/ai.school/master/images/akinator.png "akinator") 
+
          - #### Quando l'AI è solo marketing
              - concetto di buzzword
              - ciclo dell'hype 
