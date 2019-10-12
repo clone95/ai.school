@@ -321,18 +321,24 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          
     - ### Cosa non è
          - #### Distinzione tra AI ed euristiche
-             
+          
+         Cos'è un programma software?
+         E' in genere la risoluzione di un problema. Questo problema può essere ricordarsi la lista della spesa, oppure comunicare una transazione bancaria. In generale tutto ciò per cui esiste una serie di passi da compiere per risolvere il problema. 
+         
+         La scelta dei passi giusti per risolvere il problema si chiama algoritmo. 
+         
+         Vediamo ad esempio l'algoritmo per preparare un the caldo.
+         
+         ![Figure 1-1](https://raw.github.com/clone95/ai.school/master/images/algorithm.png "1") 
+         
          Che differenza c'è fra i programmi di AI e qualsiasi altro programma? 
          
          Sostanzialmente l'approccio nella risoluzione del problema. 
          
-         Esistono due approcci diversi nella risoluzione di un problema. 
-         Il primo approccio si chiama algoritmico:
+         In un programma di AI (del secondo tipo, le reti neurali o Deep Learning, quello popolare oggi), le decisioni non vengono prese nello stesso modo. Infatti non esiste una serie pre-determinata di passi da compiere, ne un risultato che è sempre lo stesso.
          
-         ![Figure 1-1](https://raw.github.com/clone95/ai.school/master/images/algorithm.png "1") 
-
+         La particolarità delle reti neurali è che sono come delle black boxes, nelle quali non puoi vedere dentro, ma semplicemente fornisci l'input e loro ti restituiscono l'output. Questo perchè esse sono composte da milioni di piccoli pezzetti (come i neuroni del cervello umano) e non ce n'è uno specializzato nel fare quello, e non quell'altro compito. Proprio come nel cervello umano, tutti concorrono alla presa delle decisioni, e quindi alla risoluzione del problema.
          
-             
              - cosa quindi non è AI 
          - #### Quando l'AI è solo marketing
              - concetto di buzzword
