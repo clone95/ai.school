@@ -322,7 +322,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
     - ### Cosa non è
          - #### Distinzione tra AI ed euristiche
           
-         Cos'è un programma software?
+         Cos'è un programma (o software)?
          E' in genere la risoluzione di un problema. Questo problema può essere ricordarsi la lista della spesa, oppure comunicare una transazione bancaria. In generale tutto ciò per cui esiste una serie di passi da compiere per risolvere il problema. 
          
          La scelta dei passi giusti per risolvere il problema si chiama algoritmo. 
@@ -337,16 +337,23 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          
          In un programma di AI (del secondo tipo, le reti neurali o Deep Learning, quello popolare oggi), le decisioni non vengono prese nello stesso modo. Infatti non esiste una serie pre-determinata di passi da compiere, ne un risultato che è sempre lo stesso.
          
-         La particolarità delle reti neurali è che sono come delle black boxes, nelle quali non puoi vedere dentro, ma semplicemente fornisci l'input e loro ti restituiscono l'output. Questo perchè esse sono composte da milioni di piccoli pezzetti (come i neuroni del cervello umano) e non ce n'è uno specializzato nel fare quello, e non quell'altro compito. Proprio come nel cervello umano, tutti concorrono alla presa delle decisioni, e quindi alla risoluzione del problema.
+         La particolarità delle reti neurali è che sono come delle black boxes, nelle quali non puoi vedere dentro, semplicemente fornisci l'input e loro ti restituiscono l'output.
          
-             - cosa quindi non è AI 
+         Questo perchè esse sono composte da milioni di piccoli pezzetti (come i neuroni del cervello umano) e non ce n'è uno specializzato nel fare quello, e non quell'altro compito. Proprio come nel cervello umano, tutti concorrono alla presa delle decisioni, e quindi alla risoluzione del problema.
+         
+         Non si riesce quindi a spiegare il "perchè" una rete neurale prenda le decisioni che prende, a differenza di un algoritmo deterministico, nel quale puoi sempre esplorare i passi a ritroso per spiegare un eventuale fenomeno.
+         
+         - #### Contro Esempio (l'app Akinator)
+          Conoscete l'applicazione Akinator? 
+          
+          E' un applicazione che era molto popolare qualche anno fa, che sostanzialemnte consiste in questo:
+          
+         
          - #### Quando l'AI è solo marketing
              - concetto di buzzword
              - ciclo dell'hype 
              - i media tradizionali (terminator)
-         - #### Contro Esempio (l'app Akinator)
-             - cos'è akinator
-             - quando percorro due volte..
+
          
     
     - ### Dove la troviamo già
