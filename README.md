@@ -320,6 +320,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
          
     - ### Cosa non è
+    
          - #### Distinzione tra AI ed euristiche
           
          Cos'è un programma (o software)?
@@ -344,9 +345,15 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          Non si riesce quindi a spiegare il "perchè" una rete neurale prenda le decisioni che prende, a differenza di un algoritmo deterministico, nel quale puoi sempre esplorare i passi a ritroso per spiegare un eventuale fenomeno.
          
          - #### Contro Esempio (l'app Akinator)
+         
           Conoscete l'applicazione Akinator? 
           
-          E' un applicazione che era molto popolare qualche anno fa, che sostanzialemnte consiste in questo:
+        E' un applicazione che era molto popolare qualche anno fa, che sostanzialemnte consiste in questo:
+        dopo aver pensato a un personaggio famoso, l'app ti pome una serie di domande: ad esempio "ha i capelli?", "compare in guerre stellari?" e così via, fino a indovinare il personaggio pensato. Questa applicazione sembra "intelligente" nel senso che sembra che il suo motore software sia una AI, ma così non è! 
+        
+        Infatti se pensiamo a ciò che abbiamo detto prima, è immediato notare che c'è sempre una serie di passi predeterminati, di domande da porre in un certo ordine, che poi va a cercare in un database di personaggi e sceglie quello giusto. Però non è una rete neurale a fare questa cosa, bensì una serie di passi pre-codificati e decisi. 
+        
+        QUando vogliamo capire se un programma è di AI oppure no, chiedimoci: facendo due volte le stesse scelte, si arriva sempre alla stessa conclusione? In Akinator si, quindi non è una AI.
           
          
          - #### Quando l'AI è solo marketing
