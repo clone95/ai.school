@@ -115,7 +115,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
          ![](https://i.imgur.com/cMsFqgO.jpg)
 
-        In particolare , il liceo scientifico ha lo scopo ben preciso di **fornire gli strumenti che servono poi** nel mondo dell'Università, non di formare professionisti. 
+        In particolare, il liceo scientifico ha lo scopo ben preciso di **fornire gli strumenti che servono poi** nel mondo dell'Università, non di formare professionisti. 
         
         Ciò che non faremo durante questi incontri sarà parlare in modo strettamente tecnico di dell'AI, non verranno mostrate formule o teoremi, sia perchè non c'è il tempo per farlo (motivazione principale) sia perchè non è la cosa più importante. 
         
