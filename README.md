@@ -403,15 +403,15 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
     
 (FOCUS SCIENZE APPLICATE)
 
-- ## **Automazione**
-    
-    - ### Come apprendono i robot (Reinforcement learning)
-    
-    - ### Sfide tecniche
-    
-    - ### Paure infondate 
-    
-    - ### Rischi reali (mercato del lavoro)
-    
-    - ### Il ruolo dello Stato nella regolamentazione
+        - ### **Automazione**
+
+            - ### Come apprendono i robot (Reinforcement learning)
+
+            - ### Sfide tecniche
+
+            - ### Paure infondate 
+
+            - ### Rischi reali (mercato del lavoro)
+
+            - ### Il ruolo dello Stato nella regolamentazione
 
