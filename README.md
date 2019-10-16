@@ -360,15 +360,38 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
        ![Figure 1-2](https://raw.github.com/clone95/ai.school/master/images/akinator.png "akinator") 
 
          - #### Quando l'AI è solo marketing
-        Bene! Ora sapete più cose sull'intelligenza artificiale del 99.99 % della popolazione italiana.
-        Immaginate che anche se pensiamo a professionisti esperti che lavorano nel campo dell'informatica, spesso non sanno di cosa parlano! Pensiamo quindi a che immagine l'AI possa avere sui media tradizionali e quindi sulla popolazione in generale.
+        Bene! Ora sapete più cose sull'intelligenza artificiale del 99 % della popolazione italiana.
+        
+        Immaginate che anche se pensiamo a professionisti esperti che lavorano nel campo dell'informatica, spesso non sanno di cosa parlano quando citano l'AI! 
+        
+        Pensiamo quindi a che immagine possa avere sui media tradizionali e quindi sulla popolazione in generale.
         
         La storia ci insegna che l'eccitazione per il nuovo è palpabile ogni volta che avviene una nuova scoperta tecnica o ideologica.
+        
         Immaginiamo ad esempio invenzioni tecniche come la macchina a vapore o Internet, ma anche ideologiche come il cristianesimo o una nuova teoria filosofica!
         
-        Quando c'è una novità, tutti ne parlano (nel bene o nel male) e spesso questo crea due cose: confusione e aspettative errate.
+        Quando c'è una novità, tutti ne parlano (nel bene o nel male) e spesso questo crea due cose: _confusione e aspettative errate_.
         
-         ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/hype.png "hype") 
+        
+        ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/hype.png "hype") 
+
+
+        Confusione perchè nessuno ha veramente chiaro ciò di cui parla (come suggerisce la vignetta), aspettative errate perchè se non conosci ciò di cui parli, come fai a sapere _cosa può davvero fare_?
+        
+        Questo fenomeno, detto hype ("eccitazione") è talmente conosciuto che esistono grafici e studi per interpretarlo.
+        
+        Di seguito il grafico mostra il "ciclo dell'hype", ovvero come l'hype rispetto a una novità cambia nel tempo.
+        
+        
+        ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/ciclo-hype-concetto.png "hype-c1") 
+
+
+        Più nel dettaglio...
+
+
+        ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/Hype-Cycle-General.png "hype-c2") 
+
+
 
         
              - ciclo dell'hype 
