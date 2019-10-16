@@ -384,10 +384,10 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
         
 &nbsp;
 
-        ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/ciclo-hype-concetto.png "hype-c1") 
+   ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/ciclo-hype-concetto.png "hype-c1") 
 
 
-        Più nel dettaglio...
+   Più nel dettaglio...
 
 &nbsp;
 
