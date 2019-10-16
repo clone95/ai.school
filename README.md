@@ -388,6 +388,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
         Più nel dettaglio...
 
+&nbsp;
 
         ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/Hype-Cycle-General.png "hype-c2") 
 
