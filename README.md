@@ -141,9 +141,9 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
        
         
-         L’obiettivo del campo della Artificial Intelligence (AI d'ora in poi) è quello di creare agenti “intelligenti”,        i quali possono avere una percezione del mondo reale tramite dei **sensori**, prendere decisioni        grazie alla loro “intelligenza”, e infine metterle in atto tramite degli **attuatori**.
+         L’obiettivo del campo della [Artificial Intelligence](https://it.wikipedia.org/wiki/Intelligenza_artificiale) (AI d'ora in poi) è quello di creare agenti “intelligenti”,        i quali possono avere una percezione del mondo reale tramite dei **sensori**, prendere decisioni        grazie alla loro “intelligenza”, e infine metterle in atto tramite degli **attuatori**.
          
-         Con sensore intendiamo un qualsiasi _input_ (o stimolo) che l'agente riceve, e con attuatore intendiamo un qualsiasi _output_ (o reazione) che l'agente emette.
+         Con [sensore](https://it.wikipedia.org/wiki/Sensore) intendiamo un qualsiasi _input_ (o stimolo) che l'agente riceve, e con attuatore intendiamo un qualsiasi _output_ (o reazione) che l'agente emette.
          
         ![](https://i.imgur.com/3H3KsNe.png)
                  
