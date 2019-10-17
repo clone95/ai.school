@@ -259,7 +259,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          
          Internet ha portato a un'_esplosione di tutti i tipi di dati_ digitali: testi, immagini, video, click, acquisti, Tweets e così via.
         
-        Approfondimento: [La legge di Moore](https://it.wikipedia.org/wiki/Legge_di_Moore) e [di cosa ha paura il CEO di NVIDIA?](https://www.cnet.com/news/moores-law-is-dead-nvidias-ceo-jensen-huang-says-at-ces-2019/).
+        Approfondimento: [La legge di Moore](https://it.wikipedia.org/wiki/Legge_di_Moore) e [di cosa ha paura il CEO di NVIDIA?](https://www.cnet.com/news/moores-law-is-dead-nvidias-ceo-jensen-huang-says-at-ces-2019/)
         
         ![](https://i.imgur.com/3uOnp5z.png)
 
