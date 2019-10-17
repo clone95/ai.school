@@ -66,7 +66,6 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
         
         ![](https://i.imgur.com/MkKDhZp.png)
 
-    - #### Introduzione ispirata a [questo libro](https://www.amazon.it/persone-non-servono-dellintelligenza-artificiale-ebook/dp/B01N1KPXRB).
 
     - #### Come siamo arrivati qua?
 
@@ -147,7 +146,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          
         ![](https://i.imgur.com/3H3KsNe.png)
                  
-         Volendo fare un’analogia con un essere umano, si può pensare ai sensori come agli organi di        senso (occhi, orecchie...), l’intelligenza è quella del nostro cervello e gli attuatori possono           essere le mani, i piedi o più in generale i muscoli.
+         Volendo fare un’[analogia con un essere umano](https://medium.com/digital-catapult/are-artificial-neural-networks-like-the-human-brain-and-does-it-matter-3add0f029273), si può pensare ai sensori come agli organi di        senso (occhi, orecchie...), l’intelligenza è quella del nostro cervello e gli attuatori possono           essere le mani, i piedi o più in generale i muscoli.
          
          
         L’analogia biologica è però limitata, in quanto non è necessario che i sensori di un agente        debbano rilevare fenomeni fisici, come la temperatura o il tempo, ma potrebbe rilevare dati,        relazioni, o input di qualsiasi altro genere.
@@ -260,6 +259,8 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          
          Internet ha portato a un'_esplosione di tutti i tipi di dati_ digitali: testi, immagini, video, click, acquisti, Tweets e così via.
         
+        Approfondimento: [La legge di Moore](https://it.wikipedia.org/wiki/Legge_di_Moore) e [di cosa ha paura il CEO di NVIDIA?](https://www.cnet.com/news/moores-law-is-dead-nvidias-ceo-jensen-huang-says-at-ces-2019/).
+        
         ![](https://i.imgur.com/3uOnp5z.png)
 
         
@@ -288,6 +289,10 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          ![](https://i.imgur.com/6cWalJz.jpg)
          
          Questa scoperta prometteva di scongelare il ghiaccio dell'ultimo inverno dell'IA e, per la prima volta, di portare veramente la potenza dell'IA su una serie di problemi del mondo reale.
+         
+         Vuoi seguire le ultime news in quanto a innovazione tecnologica e in particolare AI?
+         
+         Leggi [IEEE Spectrum](https://spectrum.ieee.org/).
          
          ![](https://i.imgur.com/dgbzAug.jpg)
 
