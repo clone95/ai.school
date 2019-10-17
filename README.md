@@ -66,6 +66,8 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
         
         ![](https://i.imgur.com/MkKDhZp.png)
 
+    - #### Introduzione ispirata a [questo libro](https://www.amazon.it/persone-non-servono-dellintelligenza-artificiale-ebook/dp/B01N1KPXRB).
+
     - #### Come siamo arrivati qua?
 
         Per capire il perchè siamo qui ora a parlarci può essere utile esplorare il processo che ha generato l'idea di questo progetto. In questo modo spero che riusciate a mettervi nei miei panni e comprendere meglio anche il mio personale approccio al **come e cosa** vi presenterò. 
@@ -436,8 +438,11 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
  
  La risposta è: **"Come delle favole"**.
  
- La stragrande maggioranza della popolazione non è interessata ai fatti, ma alle storie che vengono costruite sui fatti. 
- Quando il giornale generalista X decide di scrivere a proposito di un tema come l'AI, non pensa "okay, forniamo fatti concreti e parliamo dei limiti reali delle applicazioni", bensì pensa "qual'è la storia più emotivamente coinvolgente per il lettore?"
+ _La stragrande maggioranza della popolazione non è interessata ai fatti, ma alle storie che vengono costruite sui fatti._ 
+ 
+ Inoltre il loro unico mezzo di informazione (se c'è) è il quotidiano generalista.
+ 
+ Quando il giornalista X decide di scrivere a proposito di un tema come l'AI, non pensa "okay, forniamo fatti concreti e parliamo dei limiti reali delle applicazioni", bensì pensa "qual'è la storia più emotivamente coinvolgente per il lettore?"
  
  Questo permette la nascita di titoli di tipo questo:
  
