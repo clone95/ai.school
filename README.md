@@ -413,7 +413,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 &nbsp;
      
      
-   E come stiamo messi nel 2019?
+   Qual'è la situazione nel 2019?
    
    [Gartner](https://www.gartner.com/en), riconosciuto come il più autorevole giornale di trend, ogni anno stile l'hype cycle rispetto a varie tecnologie emergenti, così che si possano valutare le opportunità reali delle varie applicazioni.
    
@@ -421,11 +421,29 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
 &nbsp;
 
- ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/hype.png "hype") 
+ ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/gartner.png "hype") 
+ 
+&nbsp;   
+
+&nbsp;
 
 
- - ciclo dell'hype 
- - i media tradizionali (terminator)
+ Fin qua vi ho presentato il ciclo dell'hype da un punto di vista "business" (quindi di chi lavora nel campo), che è quello che analizzo io giorno per giorno, esaminando articoli, seguendo giornali specializzati in ricerca, e così via. 
+ 
+ Quando si parla di disinformazione però, la vera domanda da farsi è:
+ 
+ _Come vive la gente comune questo genere di fenomeni?_
+ 
+ La risposta è: "Come delle favole".
+ 
+ La stragrande maggioranza della popolazione non è interessata ai fatti, ma alle storie che vengono costruite sui fatti. 
+ Quando il giornale generalista X decide di scrivere a proposito di un tema come l'AI, non pensa "okay, forniamo fatti concreti e parliamo dei limiti reali delle applicazioni", bensì pensa "qual'è la storia più emotivamente coinvolgente per il lettore?"
+ 
+ Questo da origine a titoli tipo questo:
+ 
+  ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/terminator.png "hype") 
+
+ 
 
 
 - ### Dove la troviamo già
