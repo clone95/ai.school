@@ -434,16 +434,18 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
  
  _Come vive la gente comune questo genere di fenomeni?_
  
- La risposta è: "Come delle favole".
+ La risposta è: **"Come delle favole"**.
  
  La stragrande maggioranza della popolazione non è interessata ai fatti, ma alle storie che vengono costruite sui fatti. 
  Quando il giornale generalista X decide di scrivere a proposito di un tema come l'AI, non pensa "okay, forniamo fatti concreti e parliamo dei limiti reali delle applicazioni", bensì pensa "qual'è la storia più emotivamente coinvolgente per il lettore?"
  
- Questo da origine a titoli tipo questo:
+ Questo permette la nascita di titoli di tipo questo:
  
   ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/terminator.png "hype") 
 
+Perchè avviene? Perchè cattura molto di più l'attenzione un titolo così che "nuovi sistemi di predizione automatica hanno raggiunto il 99% di precisione nella risoluzione di un problema".
  
+ Tra l'altro, l'immagine con il robot è doppiamente fuorviante, infatti come sapete bene una AI non ha bisogno di un "corpo" fisico, in questo caso pezzi di hardware comandabile tramite comandi. 
 
 
 - ### Dove la troviamo già
