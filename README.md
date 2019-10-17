@@ -324,6 +324,8 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
         In questo esempio, il sistema di AI dell’auto ha un sotto-modulo di Machine Learning che gli permette di migliorarsi nel tempo, a mano a mano che la macchina “vede” strade e situazioni diverse, e aumenta le sue performance rispetto a una qualche metrica (sicurezza, tempo di reazione alla frenata, consumi).
         
         Questo modulo di Machine Learning è poi costituito da ulteriori sotto-moduli, tra cui ci può essere un modulo di Deep Learning che si occupa in modo specifico della visione che l’auto ha del mondo reale, tramite una rete neurale addestrata a riconoscere il tracciato della strada, le forme delle automobili, distinguerle da quelle degli alberi e dei pedoni, e così via.
+        
+        A proposito, [quanto siamo vicini a macchine completamente autonome commercializzabili?](https://ori.ox.ac.uk/self-driving-cars-how-close-are-we-really-without-the-hype/)
                  
         ![](https://i.imgur.com/QsCK0aM.png)
 
