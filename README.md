@@ -286,6 +286,8 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
          La svolta è arrivata nel 2012, quando una rete neurale costruita dal team di Hinton ha demolito la competizione in un concorso internazionale di Computer Vision. 
          Dopo decenni trascorsi ai margini della ricerca sull'IA, le reti neurali hanno colpito duro e ottenuto enormi successi.
          
+         Di seguito una piccola porzione del dataset [Imagenet](http://www.image-net.org/), costituito da milioni di immagini classificate a mano.
+         
          ![](https://i.imgur.com/6cWalJz.jpg)
          
          Questa scoperta prometteva di scongelare il ghiaccio dell'ultimo inverno dell'IA e, per la prima volta, di portare veramente la potenza dell'IA su una serie di problemi del mondo reale.
