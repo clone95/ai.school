@@ -400,32 +400,32 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
 
 
-        
-             - ciclo dell'hype 
-             - i media tradizionali (terminator)
 
-    
-    - ### Dove la troviamo già
-         - #### Sistemi di raccomandazione (Netflix, Amazon, Youtube) -3 min
-         - #### Social networks (Instagram, Facebook) -3
-         - #### Assistenti personali (ok google)-2
-         - #### Previsioni meteo (incrocio tanti dati + calcoli massivi)
-         - ecco: in comune ci sono i big data -4
-         - #### Ottimizzazione energetica ?
-         - #### Banche, Trading e investimenti ?
-         - #### Assicurazioni ?
-    
-    - ### Dove arriverà presto
-         
-         - #### Medicina -1
-         - #### Istruzione -1
-         - #### Design -1
-         - #### Istituzioni e giustizia -1
-         - #### Risorse Umane -1
-         - #### Agricoltura -1
-         - #### Ricerca scientifica -1
-         - #### Città -1 (vedi dopo)
-         - #### Beni culturali e ambiente (vedi dopo)
+ - ciclo dell'hype 
+ - i media tradizionali (terminator)
+
+
+- ### Dove la troviamo già
+     - #### Sistemi di raccomandazione (Netflix, Amazon, Youtube) -3 min
+     - #### Social networks (Instagram, Facebook) -3
+     - #### Assistenti personali (ok google)-2
+     - #### Previsioni meteo (incrocio tanti dati + calcoli massivi)
+     - ecco: in comune ci sono i big data -4
+     - #### Ottimizzazione energetica ?
+     - #### Banche, Trading e investimenti ?
+     - #### Assicurazioni ?
+
+- ### Dove arriverà presto
+
+     - #### Medicina -1
+     - #### Istruzione -1
+     - #### Design -1
+     - #### Istituzioni e giustizia -1
+     - #### Risorse Umane -1
+     - #### Agricoltura -1
+     - #### Ricerca scientifica -1
+     - #### Città -1 (vedi dopo)
+     - #### Beni culturali e ambiente (vedi dopo)
 
 - ## **Sinergie dell'AI con altri trend tecnologici** 
  
