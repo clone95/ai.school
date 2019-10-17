@@ -382,6 +382,16 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
         
         Di seguito il grafico mostra il "ciclo dell'hype", ovvero come l'hype rispetto a una novità cambia nel tempo.
         
+        All'inizio c'è il "technology trigger" ovvero la scoperta, al quale segue un grosso picco di hype.
+        
+        Alcuni temi che hanno vissuto questo fenomeno sono ad esempio la parole "big data", "criptovalute"... (si, grafene, sto guardando te).
+        
+        In seguito, quando il mercato si rende conto che una scoperta non è immediatamente impiegabile dal punto di vista industriale, l'hype cola a picco e i media si disinteressano del fenomeno. 
+        
+        Con il passare del tempo poi, escono nuove versioni della scoperta, e piano piano diventano mature al punto da realizzarci applicazioni che possano avere un'utilità nel mondo reale. 
+        
+        Piano piano queste applicazioni iniziano a venire adottate, e si raggiunge un vero momento di produttività.
+        
 &nbsp;
 
 &nbsp;
@@ -390,7 +400,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
 
    Più nel dettaglio...
-
+   
 
 &nbsp;   
 
@@ -398,7 +408,20 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
      
  ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/Hype-Cycle-General.png "hype-c2") 
 
+&nbsp;   
 
+&nbsp;
+     
+     
+   E come stiamo messi nel 2019?
+   
+   [Gartner](https://www.gartner.com/en), riconosciuto come il più autorevole giornale di trend, ogni anno stile l'hype cycle rispetto a varie tecnologie emergenti, così che si possano valutare le opportunità reali delle varie applicazioni.
+   
+&nbsp;   
+
+&nbsp;
+
+ ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/hype.png "hype") 
 
 
  - ciclo dell'hype 
