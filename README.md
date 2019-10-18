@@ -467,7 +467,7 @@ Abbiamo visto ad alto livello come funziona una intelligenza artificiale (nello 
 
 Per comprendere però _cosa è in grado di fare_ una AI è il caso di fare qualche esempio.
 
-E' un'applicazione di Intelligenza Artificiale:
+**E' un'applicazione di Intelligenza Artificiale:**
 
 - Un filtro "intelligente" per le email di spam, che più email di spam elabora, più efficace diventa nel riconoscerle e distinguerle dalle email utili.
 
@@ -483,7 +483,7 @@ E' un'applicazione di Intelligenza Artificiale:
 
 Vediamo anche alcuni controesempi.
 
-Non è un'applicazione di Machine Learning:
+**Non è un'applicazione di Intelligenza Artificiale:**
 
 - Un motore di ricerca basato su parole chiave: non migliora con l'esperienza, e per renderlo più "intelligente" bisogna programmarlo esplicitamente.
 
@@ -491,9 +491,8 @@ Non è un'applicazione di Machine Learning:
 
 - Un sensore programmato per rilevare le targhe delle auto (es. il sistema Safety Tutor). Sebbene "veda" le targhe e possa, quindi, essere confuso con il concetto di Computer Vision, non migliora con l'esperienza, e le sue prestazioni sono determinate esclusivamente dalla programmazione in fase di progettazione, dove viene esplicitamente calibrato per rilevare un oggetto standard (la targa).
 
----
 
-Come potete notare, le applicazioni che ho citato sono molto diverse tra loro e applicate nei più svariati campi.
+Come potete notare, le applicazioni che ho citato _sono molto diverse tra loro e applicate nei più svariati campi_.
 
 Vediamo più nel dettaglio alcuni di questi campi. 
 
