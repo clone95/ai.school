@@ -459,10 +459,39 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
 
 Perchè avviene? Perchè cattura molto di più l'attenzione un titolo così che "nuovi sistemi di predizione automatica hanno raggiunto il 99% di precisione nella risoluzione di un problema".
  
- Tra l'altro, l'immagine con il robot è doppiamente fuorviante, infatti come sapete bene una AI non ha bisogno di un "corpo" fisico, in questo caso pezzi di hardware comandabile tramite comandi. 
-
+ Tra l'altro, l'immagine con il robot è doppiamente fuorviante, infatti come sapete bene una AI non ha bisogno di un "corpo" fisico.
 
 - ### Dove la troviamo già
+
+Abbiamo visto ad alto livello come funziona una intelligenza artificiale (nello specifico, esamineremo quelle che funzionano tramite reti neurali, non quelle a "regole").
+
+Per comprendere però _cosa è in grado di fare_ una AI è il caso di fare qualche esempio.
+
+E' un'applicazione di Intelligenza Artificiale:
+
+- Un filtro "intelligente" per le email di spam, che più email di spam elabora, più efficace diventa nel riconoscerle e distinguerle dalle email utili.
+
+- Un riconoscitore di figure o simboli disegnati a mano, come numeri, lettere o cifre.
+
+- Un sistema di personalizzazione dei contenuti suggeriti in base a quanto già visto (Netflix che consiglia il prossimo film da vedere, Facebook che suggerisce gruppi che potrebbero interessarti, Amazon che mostra prodotti spesso acquistati insieme).
+
+- Un sistema di analisi del sentimento in grado di estrarre informazioni importanti da tweet o altri dati generati dagli esseri umani su un particolare evento o personaggio. Ad esempio, si può fare un'analisi sentimentale del concetto di "Donald Trump" durante le elezioni, e capire come viene percepito dalle persone che pubblicano tweet su di esso (negativo, positivo, neutrale....).
+
+- Un sistema di assistenza alla scrittura che, man mano che il testo è composto, prevede le parole successive e le suggerisce. Esempi di questo sistema sono estremamente popolari, come il completamento automatico degli smartphone o la barra di ricerca di Facebook.
+
+- Un sistema di Computer Vision che riconosce il modello e la marca di un'auto "vedendola" con un sensore (tipicamente una videocamera).
+
+Vediamo anche alcuni controesempi.
+
+Non è un'applicazione di Machine Learning:
+
+- Un motore di ricerca basato su parole chiave: non migliora con l'esperienza, e per renderlo più "intelligente" bisogna programmarlo esplicitamente.
+
+- Un'interfaccia di assistenza clienti che ha pre-programmato le risposte a specifiche esigenze. Ad esempio, se rilevo la parola "ORDER" e un codice alfanumerico nel messaggio di richiesta del cliente, allora mostro lo stato della spedizione identificato da quel codice.
+
+- Un sensore programmato per rilevare le targhe delle auto (es. il sistema Safety Tutor). Sebbene "veda" le targhe e possa, quindi, essere confuso con il concetto di Computer Vision, non migliora con l'esperienza, e le sue prestazioni sono determinate esclusivamente dalla programmazione in fase di progettazione, dove viene esplicitamente calibrato per rilevare un oggetto standard (la targa).
+
+
      - #### Sistemi di raccomandazione (Netflix, Amazon, Youtube) -3 min
      - #### Social networks (Instagram, Facebook) -3
      - #### Assistenti personali (ok google)-2
