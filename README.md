@@ -491,15 +491,44 @@ Non è un'applicazione di Machine Learning:
 
 - Un sensore programmato per rilevare le targhe delle auto (es. il sistema Safety Tutor). Sebbene "veda" le targhe e possa, quindi, essere confuso con il concetto di Computer Vision, non migliora con l'esperienza, e le sue prestazioni sono determinate esclusivamente dalla programmazione in fase di progettazione, dove viene esplicitamente calibrato per rilevare un oggetto standard (la targa).
 
+---
 
-     - #### Sistemi di raccomandazione (Netflix, Amazon, Youtube) -3 min
-     - #### Social networks (Instagram, Facebook) -3
-     - #### Assistenti personali (ok google)-2
-     - #### Previsioni meteo (incrocio tanti dati + calcoli massivi)
-     - ecco: in comune ci sono i big data -4
-     - #### Ottimizzazione energetica ?
-     - #### Banche, Trading e investimenti ?
-     - #### Assicurazioni ?
+Come potete notare, le applicazioni che ho citato sono molto diverse tra loro e applicate nei più svariati campi.
+
+Vediamo più nel dettaglio alcuni di questi campi. 
+
+Tenete conto che per motivi di tempo sono citate solo alcune applicazioni e giorno per giorno nuove scoperte aprono interi campi all'applicazione dell'AI. 
+
+ - #### Sistemi di raccomandazione (Netflix, Amazon, Youtube)
+ 
+ Il tipo di AI con cui tutti abbiamo a che fare ogni giorno sono i **motori di raccomandazione** (recommendation engines).
+ 
+ 
+ Costituito da insieme di reti neurali che collaborano, questo genere di "intelligenza" è presente in ogni sistema moderno che offra contenuti di intrattenimento on-demand, come Netflix, Spotify, o un qualsiasi sistema che ti "consigli" i prossimi contenuti da fruire in base a ciò che ti piace. 
+ 
+ Anche i social fanno fortissimo uso di questi sistemi, ad esempio per ordinare i post nella bacheca in base ai tuoi gusti (dando spazio ai contenuti che ti piacciono e penalizzando quelli che potrebbero darti fastidio), oppure per suggerirti nuovi amici con cui collegarti. 
+ 
+ Questo tema (consigliare ciò che piace e penalizzare ciò che non piace) ha grosse implicazioni etiche e pratiche. 
+ 
+ Proviamo a pensare a _quanto le persone si informano sui social_. Tante, no? 
+ 
+ Di fatto, tutti noi leggiamo notizie sui social.. 
+ 
+ Ma se il social "sa" quello che ci piace e quello che non ci piace, tenderà sempre a suggerirci contenuti che **confermano le nostre idee**, e cerca di limitare l'esposizione a punti di vista diversi.
+ 
+ Questo fenomeno tende a creare "bolle" di concetti, delle comfort zone che confermano in modo ciclico i nostri punti di vista, gusti, o addirittura scelte politiche.
+ 
+ Il fenomeno è anche detto "polarizzazione": immaginiamo che con i miei primi like su Facebook io faccia capire che sono una persona ideologicamente di destra. 
+ 
+ Il social inizierà a promuovere nella mia bacheca contenuti di "destra", che siano giornali, oppure post di altre persone che il sistema sa essere "di destra", e questo fenomeno circolare tenderà a estremizzare la mie opinioni, perchè "attorno a me vedo solo conferme".
+ 
+ - #### Social networks (Instagram, Facebook) -3
+ - #### Assistenti personali (ok google)-2
+ - #### Previsioni meteo (incrocio tanti dati + calcoli massivi)
+ - ecco: in comune ci sono i big data -4
+ - #### Ottimizzazione energetica ?
+ - #### Banche, Trading e investimenti ?
+ - #### Assicurazioni ?
 
 - ### Dove arriverà presto
 
