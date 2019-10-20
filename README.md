@@ -566,7 +566,7 @@ Ma la lista è lunga... La moda che ci piace, i nostri cibi preferiti, i posti i
  
    ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/dialogflow.png "dialogflow") 
 
-
+ - #### 
 
  - #### Previsioni meteo (incrocio tanti dati + calcoli massivi)
  - ecco: in comune ci sono i big data -4
