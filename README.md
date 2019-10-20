@@ -449,7 +449,7 @@ Nella sezione [Risorse](#Risorse) vengono forniti approfondimenti e consigli sui
  
  _La stragrande maggioranza della popolazione non è interessata ai fatti, ma alle storie che vengono costruite sui fatti._ 
  
- Inoltre il loro unico mezzo di informazione (se c'è) è il quotidiano generalista.
+ Inoltre il loro unico mezzo di informazione (se c'è) è il quotidiano generalista (cartaceo, tv oppure online).
  
  Quando il giornalista X decide di scrivere a proposito di un tema come l'AI, non pensa "okay, forniamo fatti concreti e parliamo dei limiti reali delle applicazioni", bensì pensa "qual'è la storia più emotivamente coinvolgente per il lettore?"
  
@@ -515,14 +515,54 @@ Tenete conto che per motivi di tempo sono citate solo alcune applicazioni e gior
  
  Ma se il social "sa" quello che ci piace e quello che non ci piace, tenderà sempre a suggerirci contenuti che **confermano le nostre idee**, e cerca di limitare l'esposizione a punti di vista diversi.
  
- Questo fenomeno tende a creare "bolle" di concetti, delle comfort zone che confermano in modo ciclico i nostri punti di vista, gusti, o addirittura scelte politiche.
+ Questo fenomeno tende a creare "bolle" di concetti, delle comfort zones che confermano in modo ciclico i nostri punti di vista, gusti, o addirittura scelte politiche.
  
  Il fenomeno è anche detto "polarizzazione": immaginiamo che con i miei primi like su Facebook io faccia capire che sono una persona ideologicamente di destra. 
  
- Il social inizierà a promuovere nella mia bacheca contenuti di "destra", che siano giornali, oppure post di altre persone che il sistema sa essere "di destra", e questo fenomeno circolare tenderà a estremizzare la mie opinioni, perchè "attorno a me vedo solo conferme".
+ Il social inizierà a promuovere nella mia bacheca contenuti di "destra", che siano giornali, oppure post di altre persone che il sistema sa essere "ideologiamente di destra", e questo fenomeno circolare tenderà a estremizzare la mie opinioni, perchè "attorno a me vedo solo conferme".
  
- - #### Social networks (Instagram, Facebook) -3
- - #### Assistenti personali (ok google)-2
+ - #### Social networks (Instagram, Facebook) 
+ 
+ Cos'è social network?
+ Un social network è una piattaforma che ti permette di interagire con persone e contenuti, creando una sorta di "livello virtuale", sopra le nostre teste, che noi trattiamo come reale.
+ 
+ Usando i social, ogni azione che facciamo consiste in un dato. Mettere like a una pagina, scrivere un commento oppure aggiungere un amico. 
+ 
+ Grazie a ciò, e miliardi di utenti che spendono una cospicua parte della loro giornata si social, essi siedono su una miniera d'oro di dati di tutti i tipi. 
+ Dai nostri gusti, alla nostra rete sociale, alla nostra propensione o avversione per le idee!
+ 
+Ma la lista è lunga... La moda che ci piace, i nostri cibi preferiti, i posti in cui andiamo, le nostre relazioni sentimentali, le quantità di interazioni che scambiamo con ogni altra persona, tenendo conto anche di tutte le caratteristiche degli altri...
+ 
+ I social con tutti questi dati addestrano centinaia di **reti neurali specializzate**, che lavorano di concerto per offrirti i contenuti più interessanti, nuove persone da conoscere, e così via.
+ 
+ Ricordiamo che le reti sono specializzate, ovvero ognuna un determinato e piccolo compito, ad esempio "ordina per preferenza una serie di prodotti" (ad esempio nel Facebook Marketplace), ma lavorando assieme si comportano come un "unico cervello" che cerca di fornirti il migliore servizio possibile.
+ 
+ Ogni volta che scorrete la bacheca di qualche social (o applicazione di qualsiasi tipo ormai) state interagendo con decine di modelli statistici (spesso reti neurali) che vi personalizzano l'esperienza. 
+
+![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/fb.png "fb") 
+
+ 
+ - #### Assistenti personali (ok google)
+ 
+ Abbiamo visto come le reti neurali, cercando di imitare la struttura del cervello umano, siano adatte a molti di quei compiti risolvibili da un umano (o almeno, provarci).
+ 
+ Un esempio eccellente di questo è la comprensione del linguaggio umano. 
+ 
+ Se voi programmate una macchina qualsiasi dovete necessariamente farlo tramite un linguaggio che la macchina può comprendere, e che ha una limitatezza estremo rispetto alla complessità del linguaggio naturale umano (anche solo considerando una sola lingua!).
+ 
+ Il campo della **NLP** (Natural Language Processing) e **NLU** (Natural Understanding) è il campo in cui sono più mature le applicazioni di AI. 
+ 
+ Provate a parlare con il vostro assistente Google, o con Siri, ed essi comprenderanno comandi complessi, anche se parlate in modo sommesso, interrotto, o sbagliando la grammatica. 
+ 
+ Io personalmente uso "Ok Google" molto spesso durante il giorno, mentre guido ad esempio! Ma anche perchè è molto meno faticoso pronunciare "Ok Google, portami nel luogo X domattina in treno", che andare nelle mappe e impostare la richiesta "manualmente".
+ 
+ Una applicazione che si sta già vedendo molto è il chatbot nei siti web, che usa la stessa tecnologia che usa Google per fare assistenti virtuali di qualsiasi tipo, ad esempio ti fa navigare nel sito con comodità, oppure ti fa assitenza a problemi tecnici, e infine chiama un assistente umano se ce n'è bisogno.
+ 
+ A questo proposito segnalo [Google DialogFlow](https://dialogflow.com/), uno strumento di Google che permette di creari agenti interattivi in modo completamente gratuito, usandola tecnologia stessa di Google. E' usabile comodamente da browser senza saper programmare, e impiegabile con un click all'interno della chat di Facebook o dei vari social!
+ E' ovviamente anche programmabile per poterne usare le funzionalità più avanzate, tramite il linguaggio Python.
+ 
+   ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/dialogflow.png "dialogflow") 
+
  - #### Previsioni meteo (incrocio tanti dati + calcoli massivi)
  - ecco: in comune ci sono i big data -4
  - #### Ottimizzazione energetica ?
