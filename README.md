@@ -556,12 +556,17 @@ Ma la lista è lunga... La moda che ci piace, i nostri cibi preferiti, i posti i
  
  Io personalmente uso "Ok Google" molto spesso durante il giorno, mentre guido ad esempio! Ma anche perchè è molto meno faticoso pronunciare "Ok Google, portami nel luogo X domattina in treno", che andare nelle mappe e impostare la richiesta "manualmente".
  
+   ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/chatbot.png "chatbot") 
+
+ 
  Una applicazione che si sta già vedendo molto è il chatbot nei siti web, che usa la stessa tecnologia che usa Google per fare assistenti virtuali di qualsiasi tipo, ad esempio ti fa navigare nel sito con comodità, oppure ti fa assitenza a problemi tecnici, e infine chiama un assistente umano se ce n'è bisogno.
  
  A questo proposito segnalo [Google DialogFlow](https://dialogflow.com/), uno strumento di Google che permette di creari agenti interattivi in modo completamente gratuito, usandola tecnologia stessa di Google. E' usabile comodamente da browser senza saper programmare, e impiegabile con un click all'interno della chat di Facebook o dei vari social!
  E' ovviamente anche programmabile per poterne usare le funzionalità più avanzate, tramite il linguaggio Python.
  
    ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/dialogflow.png "dialogflow") 
+
+
 
  - #### Previsioni meteo (incrocio tanti dati + calcoli massivi)
  - ecco: in comune ci sono i big data -4
