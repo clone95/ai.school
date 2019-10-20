@@ -539,6 +539,8 @@ Ma la lista è lunga... La moda che ci piace, i nostri cibi preferiti, i posti i
  
  Ogni volta che scorrete la bacheca di qualche social (o applicazione di qualsiasi tipo ormai) state interagendo con decine di modelli statistici (spesso reti neurali) che vi personalizzano l'esperienza. 
 
+[10 modi con cui Facebook usa l'AI](https://thenextscoop.com/effect-of-artificial-intelligence-on-social-media/) e [altri esempi](https://yourstory.com/mystory/the-impact-of-artificial-intelligence-on-social-me).
+
 ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/fb.png "fb") 
 
  
@@ -561,8 +563,13 @@ Ma la lista è lunga... La moda che ci piace, i nostri cibi preferiti, i posti i
  
  Una applicazione che si sta già vedendo molto è il chatbot nei siti web, che usa la stessa tecnologia che usa Google per fare assistenti virtuali di qualsiasi tipo, ad esempio ti fa navigare nel sito con comodità, oppure ti fa assitenza a problemi tecnici, e infine chiama un assistente umano se ce n'è bisogno.
  
- A questo proposito segnalo [Google DialogFlow](https://dialogflow.com/), uno strumento di Google che permette di creari agenti interattivi in modo completamente gratuito, usandola tecnologia stessa di Google. E' usabile comodamente da browser senza saper programmare, e impiegabile con un click all'interno della chat di Facebook o dei vari social!
+ A questo proposito segnalo [**Google DialogFlow**](https://dialogflow.com/), uno strumento di Google che permette di creari agenti interattivi in modo completamente gratuito, usandola tecnologia stessa di Google. 
+ 
+ E' usabile comodamente da browser senza saper programmare, e impiegabile con un click all'interno della chat di Facebook o dei vari social!
+ 
  E' ovviamente anche programmabile per poterne usare le funzionalità più avanzate, tramite il linguaggio Python.
+ 
+ [Qua](https://chatbotslife.com/dialogflow-restaurant-bot-tutorial-1-45ce1d3c0ab5) trovi un tutorial in 6 parti, e [qua](https://cloud.google.com/dialogflow/docs/tutorials/) i tutorial ufficiali di Google.
  
    ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/dialogflow.png "dialogflow") 
 
