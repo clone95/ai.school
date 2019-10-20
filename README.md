@@ -552,11 +552,13 @@ Ma la lista è lunga... La moda che ci piace, i nostri cibi preferiti, i posti i
  
  Se voi programmate una macchina qualsiasi dovete necessariamente farlo tramite un linguaggio che la macchina può comprendere, e che ha una limitatezza estremo rispetto alla complessità del linguaggio naturale umano (anche solo considerando una sola lingua!).
  
- Il campo della **NLP** (Natural Language Processing) e **NLU** (Natural Understanding) è il campo in cui sono più mature le applicazioni di AI. 
+ Il campo della [**NLP**](https://www.agendadigitale.eu/cultura-digitale/linguaggio-naturale-e-intelligenza-artificiale-a-che-punto-siamo/) (Natural Language Processing) e [**NLU**](https://www.twilio.com/docs/glossary/what-is-natural-language-understanding) (Natural Understanding) è il campo in cui sono più mature le applicazioni di AI. 
  
  Provate a parlare con il vostro assistente Google, o con Siri, ed essi comprenderanno comandi complessi, anche se parlate in modo sommesso, interrotto, o sbagliando la grammatica. 
  
- Io personalmente uso "Ok Google" molto spesso durante il giorno, mentre guido ad esempio! Ma anche perchè è molto meno faticoso pronunciare "Ok Google, portami nel luogo X domattina in treno", che andare nelle mappe e impostare la richiesta "manualmente".
+ Io personalmente uso "Ok Google" molto spesso durante il giorno, mentre guido ad esempio!
+ 
+  Ma anche perchè è molto meno faticoso pronunciare "Ok Google, portami nel luogo X domattina in treno", che andare nelle mappe e impostare la richiesta "manualmente".
  
    ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/chatbot.png "chatbot") 
 
@@ -569,17 +571,55 @@ Ma la lista è lunga... La moda che ci piace, i nostri cibi preferiti, i posti i
  
  E' ovviamente anche programmabile per poterne usare le funzionalità più avanzate, tramite il linguaggio Python.
  
+In un pomeriggio puoi creare un chatbot per la tua attività o per qualsiasi altra cosa, figo no?
+
  [Qua](https://chatbotslife.com/dialogflow-restaurant-bot-tutorial-1-45ce1d3c0ab5) trovi un tutorial in 6 parti, e [qua](https://cloud.google.com/dialogflow/docs/tutorials/) i tutorial ufficiali di Google.
  
    ![Figure 1-3](https://raw.github.com/clone95/ai.school/master/images/dialogflow.png "dialogflow") 
 
- - #### 
+ - #### Altre applicazioni già in uso
 
- - #### Previsioni meteo (incrocio tanti dati + calcoli massivi)
- - ecco: in comune ci sono i big data -4
- - #### Ottimizzazione energetica ?
- - #### Banche, Trading e investimenti ?
- - #### Assicurazioni ?
+ Ci vorrebbero ore per descrivere le altre applicazioni di AI già utilizzate in tanti campi e diversi fra loro, per cui citerò solo alcune di esse.
+
+ Utilizzo in:
+ - **Assicurazioni**: 
+    - previsione della possibilità di ripagare i debiti
+    - comprendere l'affidabilità dell'assicurato in base ai suoi dati storici
+    - previsione del perfetto premio annuo
+    - pacchetti di opzioni assicurative su misura
+
+ - **Previsioni meteo**: 
+    - previsione di clima ed eventi estremi
+    - causalità tra azioni dell'uomo ed eventi climatici
+
+ - **Ottimizzazione**: 
+    - scelta dei percorsi più efficaci per i veicoli
+    - scelta dell'organizzazione di una azienda in teams in base alle abilità dei singoli
+    - scegliere la disposizione di una griglia energetica nella progettazione di un edificio e di una città
+    - previsione dei consumi delle risorse nei diversi quartieri
+ 
+ - **Banche e Investimenti**:
+    - capire se un investimento è sensato oppure no
+    - algoritmi di trading automatico
+    - previsione del prezzo delle azioni della borsa
+
+ - **Telecomunicazioni**:
+    - scelta intelligente della disposizione delle stazioni
+    - previsione della rottura di parti della rete (manutenzione preventiva)- potenziamento delle comunicazioni tramite ricostruzione "intelligente" del segnali
+
+- **Sicurezza**: 
+    - analisi in tempo reale di ogni movimento bancario per individuare probabili frodi
+    - analisi degli accessi a un sistema informatico per rilevare possibili attacchi.
+
+- **Retail**: 
+    - previsione dei volumi di vendita
+    - previsione del tipo di domanda
+    - previsione dell'affidabilità dei fornitori.
+
+- **Piattaforme online**: 
+    - previsione dei volumi di utenti
+    - previsione dei picchi di richieste durante le feste o avvenimenti particolari.
+    - motori di raccomandazione ("se ti è piaciuto questo, prova quello!" - "altri utenti che hanno comprato X hanno comprato anche Y!")
 
 - ### Dove arriverà presto
 
