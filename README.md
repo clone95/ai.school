@@ -582,6 +582,12 @@ In un pomeriggio puoi creare un chatbot per la tua attività o per qualsiasi alt
  Ci vorrebbero ore per descrivere le altre applicazioni di AI già utilizzate in tanti campi e diversi fra loro, per cui citerò solo alcune di esse.
 
  Utilizzo in:
+ - **Medicina**:
+    - predizione malattie
+    - terapie personalizzate
+    - analisi della cartella clinica 
+    - ricerca e sviluppo farmaci
+
  - **Assicurazioni**: 
     - previsione della possibilità di ripagare i debiti
     - comprendere l'affidabilità dell'assicurato in base ai suoi dati storici
@@ -621,19 +627,91 @@ In un pomeriggio puoi creare un chatbot per la tua attività o per qualsiasi alt
     - previsione dei picchi di richieste durante le feste o avvenimenti particolari.
     - motori di raccomandazione ("se ti è piaciuto questo, prova quello!" - "altri utenti che hanno comprato X hanno comprato anche Y!")
 
-- ### Dove arriverà presto
+- #### Dove arriverà presto
 
-     - #### Medicina -1
-     - #### Istruzione -1
-     - #### Design -1
-     - #### Istituzioni e giustizia -1
-     - #### Risorse Umane -1
-     - #### Agricoltura -1
-     - #### Ricerca scientifica -1
-     - #### Città -1 (vedi dopo)
-     - #### Beni culturali e ambiente (vedi dopo)
+- **Istruzione**: 
+    - percorsi di apprendimento personalizzati
+    - ottimizzazione dell'organizzazione scolastica, integrata con app 
+    - monitoraggio livello di attenzione in classe tramite Computer Vision
+    
+- **Design**
+    - progettazione intelligente (oggetti, veicoli, strutture, urbanistica, molecole)
+    - arte (arti sonore, arti visive, performance)
+- **Istituzioni e giustizia**:
+    - fascicolo burocratico personale con suggerimenti per servizi
+    - giustizia "intelligente" per casi semplici e ripetitivi
+    - assistenti nella ricerca documentale
+- **Risorse umane**:
+    - scrematura dei candidati fatta da AI
+    - composizione dei team in modo "intelligente" analizzando migliaia di curriculum     
+    - costruzione di percorsi di formazione ad hoc in base a esperienze e desideri del lavoratore
+    - misura della produttività
+- **Agricoltura** 
+    - analisi salute raccolti
+    - ottimizzazione delle colture
+    - monitoraggio autonomo
+    - automazione del processo agricolo (semina, crescita, raccolto, pulizia)
+    - classificazione semi e foglie
+    - stima di resa della coltura, e parametri ideali di crescita 
+- **Ricerca** 
+    - prova di teoremi tramite AI
+    - sviluppo di molecole, proteine, materiali
+    - archiviazione documentale intelligente (motori di ricerca, alberi di concetti)
+- **Città**
+    - pianificazione urbanistica
+    - ottimizzazione griglie di servizi (energia, acqua, supermercati, negozi, servizi terziari, servizi pubblici)
+    - AI di quartiere
+    - analisi di bilanci e suggerimenti per politiche inclusive o di riqualificazione
+    - prevenzione strutturale tramite sensori (sicurezza di strutture e infrastrutture) 
+- **Beni culturali e ambiente** 
+    - metodi di preservazione dei beni culturali
+    - analisi delle reazioni alle opere delle persone 
+    - ottimizzazione della disposizione museale
+    - analisi di dati storici, archiviazione intelligente, smaterializzazione di documenti
+    - analisi di dati climatici e previsione disastri naturali 
+    - sviluppo di materiali eco-sostenibili
+    - veicoli autonomi per la pulizia delle acque
+    - sviluppo di soluzioni "biologiche" a problemi come l'inquinamento atmosferico e delle acque
 
 - ## **Sinergie dell'AI con altri trend tecnologici** 
+
+- ### IoT
+Vi sono fortissime sinergie tra AI e IoT. Abbinare all’AI una rete IoT (ad esempio,
+sensori installati nel suolo di proprietà di un’impresa agricola, o wearable indossati
+da pazienti, in grado raccogliere e inviare dati al medico curante) significa in molti
+casi moltiplicare il potenziale dell’AI in modo esponenziale. La mole e la complessità
+delle informazioni generate da questa nuova rete di oggetti sono tali che solo un
+sistema avanzato di AI potrà gestirlo in modo efficiente. Tale sistema avanzato potrà
+prendere varie configurazioni, sia centralizzate (come nel caso di supercomputer
+accessibili via cloud) o distribuite (c.d. on-device AI, supportato dalle moderne
+tecnologie di edge computing).
+
+- ### 5G
+AI e connettività 5G formano un connubio dirompente. Il 5G, cioè la rete di quinta
+generazione, arriverà ufficialmente a partire dal 2020 e permetterà di collegare
+milioni di dispositivi in tutto il mondo ad alta velocità e con bassa latenza, aprendo
+le porte alla realizzazione di nuovi scenari applicativi, fino ad ora non realizzabili, su
+un unico sistema nervoso globale in diversi settori industriali. Le reti 5G potranno
+essere gestite attraverso tecniche diverse di machine learning, che si traducono in
+auto-diagnosi, auto-configurazione, auto-ottimizzazione, auto-riparazione, autoprotezione2
+. L’AI e il 5G mettono la rete al servizio dell'utente grazie all’edge
+computing e alle sue caratteristiche intrinseche di modello computazionale iperdistribuito e iper-connesso.
+
+- ### Blockchain
+Con la diffusione delle distributed ledger technologies (di cui la blockchain è un caso
+specifico) e in particolare degli smart contract, il ruolo dell’Intelligenza Artificiale
+diverrà ancora più rilevante. La natura decentralizzata di queste tecnologie e la
+possibilità di validazione dei dati da queste raccolti consente di migliorare
+l’accuratezza dei sistemi di AI, nonché di distribuire la potenza di calcolo su più nodi,
+riducendo potenzialmente i costi e dunque l’accessibilità della tecnologia. 
+
+- ### Cloud Computing
+Il fattore abilitante dell’AI per antonomasia è il Cloud Computing: si tratta di una
+tecnologia che consente di usufruire, tramite servizio remoto, di risorse hardware e
+servizi software - come memorie di massa per l'archiviazione di dati o potenza di
+calcolo accessoria - il cui utilizzo è offerto come servizio da un provider. Le soluzioni
+di AI possono essere mantenute su data center locali – anche singoli server: questo fenomeno sta aprendo le porte a scenari ibridi che consentono l’utilizzo di questa
+tecnologia anche in condizioni di scarsa connettività o restrizioni di altra natura.
  
 (FOCUS BENI CULTURALI)
     
